@@ -1,4 +1,12 @@
-## ClassicalAlgorithm
+# leoweyrO2AD
 
-As you can see👀, this is a series of classic algorithm source code that you can use for some basic **Computer Science** exams. Good luck!😃
+leoweyr's personal algorithm training, one algorithm a day, namely O2AD. 
+
+Just for MATH & 🤏.
+
+## Archive Commit
+
+| Version | Format                                                   |
+| ------- | -------------------------------------------------------- |
+| 1.0.0   | `<Year>.<Month>.<Day> [@Platform]<#topic>[:Description]` |
 
